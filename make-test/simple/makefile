@@ -1,4 +1,4 @@
-.PHONY: hello build run clean all
+.PHONY: hello build run all
 hello:
 	@echo "Hello"
 
